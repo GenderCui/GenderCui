@@ -1,8 +1,8 @@
 # Vera Navarrete García (Work in Progress)
 
-- [Perfil Profesional en Español.](#sp)
-- [Professional Profile in English.](#en)
-- [Perfil Professional en Valencià.](#val)
+- [Perfil Profesional en **Español**.](#sp)
+- [Professional Profile in **English**.](#en)
+- [Perfil Professional en **Valencià**.](#val)
 
 ## <a name="sp">Perfil Profesional</a>
 
@@ -70,4 +70,32 @@ I am a **Junior Web Developer** looking for a **work placement** in the industry
 
 ## <a name="val">Perfil Professional</a>
 
-### Formació Tecnològica
+### Ocupación Actual
+
+**Desenvolupadora Web Junior** a la recerca de **pràctiques professionals** dins del sector, preferiblement a la província d'Alacant.
+
+### :computer: Formació Tecnològica
+
+- CFGS en **Desenvolupament d'Aplicacions Web** (IS GSD Buitrago.)
+- Curs de **Desenvolupament Web Full Stack** (FEMPA).
+
+### Cursos en Línia
+
+- **Java.**
+    - [Introducció a Java SE.](https://platzi.com/p/vn.navarretegarcia/curso/1631-course/diploma/detalle/)
+    - [Curs de Java SE **Orientat a Objectes**.](https://platzi.com/p/vn.navarretegarcia/curso/1629-course/diploma/detalle/)
+- **PHP**
+    - [Curs Bàsic de PHP: **Instalació, Funcionament i Operadors**.](https://platzi.com/p/vn.navarretegarcia/curso/2646-php/diploma/detalle/)
+    - [Curs de PHP: **Arranjaments, Funcions i Estructures de Control**.](https://platzi.com/p/vn.navarretegarcia/curso/2794-php-arreglos-funciones/diploma/detalle/)
+    - [Curs **Pràctic** de PHP.](https://platzi.com/p/vn.navarretegarcia/curso/2516-course/diploma/detalle/)
+- **Competències Tecnològiques**
+    - [Curs de **Fonaments de l'Enginyeria de Software**](https://platzi.com/p/vn.navarretegarcia/curso/11997-ingenieria/diploma/detalle/)
+    - [Configuració de l'Entorn de Desenvolupament a **Linux**](https://platzi.com/p/vn.navarretegarcia/curso/2383-prework-linux/diploma/detalle/)
+- **Altres Competències**
+    - [Curs d'**Anglès** per a Programadors.](https://platzi.com/p/vn.navarretegarcia/curso/3092-ingles-developers/diploma/detalle/)
+    - [Curs de pensament lógic: **Algorismes i Diagrames de Flux**.](https://platzi.com/p/vn.navarretegarcia/curso/3221-pensamiento-logico/diploma/detalle/)
+    - [Curs de pensament lógic: **Tractament de Dades, Estructures i Funcions**.](https://platzi.com/p/vn.navarretegarcia/curso/3222-pensamiento-logico-estructuras/diploma/detalle/)
+
+## Vies de Contacte
+
+- [**Linkedin**](https://www.linkedin.com/in/navarretegar-vera/)
