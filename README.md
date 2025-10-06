@@ -1,16 +1,24 @@
-## Hi there 👋
+# S (Work in Progress)
 
-<!--
-**GenderCui/GenderCui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Perfil Profesional en Español.](#sp)
+- [Professional Profile in English.](#en)
+- [Perfil Professional en Valencià.](#val)
 
-Here are some ideas to get you started:
+## <a name="sp">Perfil Profesional</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :computer: Formación Tecnológica
+
+- CFGS en **Desarrollo de aplicaciones Web** (IS GSD Buitrago.)
+- Curso de **Desarrollo Web Full Stack** (FEMPA).
+
+
+
+## Vías de Contacto
+
+## <a name ="en">Professional Profile</a>
+
+### :computer: Technical Education
+
+## <a name="val">Perfil Professional</a>
+
+### Formació Tecnològica
