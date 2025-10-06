@@ -1,8 +1,8 @@
 # Vera Navarrete García
 
 - [Perfil Profesional en **Español**.](#sp) :es:
-- [Professional Profile in **English**.](#en) :flag-gb:
-- [Perfil Professional en **Valencià**.](#val) :flag-ea:
+- [Professional Profile in **English**.](#en) :gb:
+- [Perfil Professional en **Valencià**.](#val) :catalonia:
 
 ## <a name="sp">Perfil Profesional</a> :flag-es:
 
