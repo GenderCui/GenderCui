@@ -32,7 +32,7 @@
     - [Curso de pensamiento lógico: **Algoritmos y Diagramas de flujo**](https://platzi.com/p/vn.navarretegarcia/curso/3221-pensamiento-logico/diploma/detalle/)
     - [Curso de pensamiento lógico: **Manejo de Datos, Estructuras y Funciones**.](https://platzi.com/p/vn.navarretegarcia/curso/3222-pensamiento-logico-estructuras/diploma/detalle/)
 
-## Vías de Contacto :mail:
+## Vías de Contacto :email:
 
 - [**Linkedin**](https://www.linkedin.com/in/navarretegar-vera/)
 
@@ -64,7 +64,7 @@ I am a **Junior Web Developer** looking for a **work placement** in the industry
     - [Logical Thinking Training: **Algorithms and Flowcharts**.](https://platzi.com/p/vn.navarretegarcia/curso/3221-pensamiento-logico/diploma/detalle/)
     - [Logical Thinking Training: **Data Management, Structures and Functions**.](https://platzi.com/p/vn.navarretegarcia/curso/3222-pensamiento-logico-estructuras/diploma/detalle/)
 
-## Contact :mail:
+## Contact :email:
 
 - [**Linkedin**](https://www.linkedin.com/in/navarretegar-vera/)
 
