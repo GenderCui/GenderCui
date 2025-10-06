@@ -1,10 +1,10 @@
 # Vera Navarrete García
 
-- [Perfil Profesional en **Español**.](#sp)
-- [Professional Profile in **English**.](#en)
-- [Perfil Professional en **Valencià**.](#val)
+- [Perfil Profesional en **Español**.](#sp) :flag-es:
+- [Professional Profile in **English**.](#en) :flag-gb:
+- [Perfil Professional en **Valencià**.](#val) :flag-ea:
 
-## <a name="sp">Perfil Profesional</a>
+## <a name="sp">Perfil Profesional</a> :flag-es:
 
 ### Ocupación Actual
 
@@ -36,7 +36,7 @@
 
 - [**Linkedin**](https://www.linkedin.com/in/navarretegar-vera/)
 
-## <a name ="en">Professional Profile</a>
+## <a name ="en">Professional Profile</a> :flag-gb:
 
 ### Current Position
 
@@ -68,7 +68,7 @@ I am a **Junior Web Developer** looking for a **work placement** in the industry
 
 - [**Linkedin**](https://www.linkedin.com/in/navarretegar-vera/)
 
-## <a name="val">Perfil Professional</a>
+## <a name="val">Perfil Professional</a> :flag-ea:
 
 ### Ocupación Actual
 
