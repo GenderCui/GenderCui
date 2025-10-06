@@ -10,7 +10,7 @@
 
 **Desarrolladora Web Junior** en busca de **prácticas profesionales** dentro del sector, principalmente dentro de la provincia de Alicante.
 
-### :computer: Formación Tecnológica
+### Formación Tecnológica :computer:
 
 - CFGS en **Desarrollo de aplicaciones Web** (IS GSD Buitrago.)
 - Curso de **Desarrollo Web Full Stack** (FEMPA).
@@ -32,7 +32,7 @@
     - [Curso de pensamiento lógico: **Algoritmos y Diagramas de flujo**](https://platzi.com/p/vn.navarretegarcia/curso/3221-pensamiento-logico/diploma/detalle/)
     - [Curso de pensamiento lógico: **Manejo de Datos, Estructuras y Funciones**.](https://platzi.com/p/vn.navarretegarcia/curso/3222-pensamiento-logico-estructuras/diploma/detalle/)
 
-## Vías de Contacto
+## Vías de Contacto :mail:
 
 - [**Linkedin**](https://www.linkedin.com/in/navarretegar-vera/)
 
@@ -42,12 +42,12 @@
 
 I am a **Junior Web Developer** looking for a **work placement** in the industry within the province of Alicante, if possible.
 
-### :computer: Technical Education
+### Technical Education :computer:
 
 - Higher Degree in **Web Applications Development** (IS GSD Buitrago.)
 - Training in **Fullstack Web Development** (FEMPA).
 
-### Online Training
+### Online Training :pencil:
 
 - **Java.**
     - [Basic training in Java SE.](https://platzi.com/p/vn.navarretegarcia/curso/1631-course/diploma/detalle/)
@@ -64,7 +64,7 @@ I am a **Junior Web Developer** looking for a **work placement** in the industry
     - [Logical Thinking Training: **Algorithms and Flowcharts**.](https://platzi.com/p/vn.navarretegarcia/curso/3221-pensamiento-logico/diploma/detalle/)
     - [Logical Thinking Training: **Data Management, Structures and Functions**.](https://platzi.com/p/vn.navarretegarcia/curso/3222-pensamiento-logico-estructuras/diploma/detalle/)
 
-## Contact
+## Contact :mail:
 
 - [**Linkedin**](https://www.linkedin.com/in/navarretegar-vera/)
 
@@ -74,12 +74,12 @@ I am a **Junior Web Developer** looking for a **work placement** in the industry
 
 **Desenvolupadora Web Junior** a la recerca de **pràctiques professionals** dins del sector, preferiblement a la província d'Alacant.
 
-### :computer: Formació Tecnològica
+### Formació Tecnològica :computer:
 
 - CFGS en **Desenvolupament d'Aplicacions Web** (IS GSD Buitrago.)
 - Curs de **Desenvolupament Web Full Stack** (FEMPA).
 
-### Cursos en Línia
+### Cursos en Línia :pencil:
 
 - **Java.**
     - [Introducció a Java SE.](https://platzi.com/p/vn.navarretegarcia/curso/1631-course/diploma/detalle/)
@@ -96,6 +96,6 @@ I am a **Junior Web Developer** looking for a **work placement** in the industry
     - [Curs de pensament lógic: **Algorismes i Diagrames de Flux**.](https://platzi.com/p/vn.navarretegarcia/curso/3221-pensamiento-logico/diploma/detalle/)
     - [Curs de pensament lógic: **Tractament de Dades, Estructures i Funcions**.](https://platzi.com/p/vn.navarretegarcia/curso/3222-pensamiento-logico-estructuras/diploma/detalle/)
 
-## Vies de Contacte
+## Vies de Contacte :mail:
 
 - [**Linkedin**](https://www.linkedin.com/in/navarretegar-vera/)
