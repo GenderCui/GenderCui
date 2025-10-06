@@ -1,4 +1,4 @@
-# Vera Navarrete García (Work in Progress)
+# Vera Navarrete García
 
 - [Perfil Profesional en **Español**.](#sp)
 - [Professional Profile in **English**.](#en)
@@ -15,7 +15,7 @@
 - CFGS en **Desarrollo de aplicaciones Web** (IS GSD Buitrago.)
 - Curso de **Desarrollo Web Full Stack** (FEMPA).
 
-### Cursos Online
+### Cursos Online :pencil:
 
 - **Java.**
     - [Introducción A Java SE](https://platzi.com/p/vn.navarretegarcia/curso/1631-course/diploma/detalle/)
