@@ -2,7 +2,7 @@
 
 - [Perfil Profesional en **Español**.](#sp) :es:
 - [Professional Profile in **English**.](#en) :gb:
-- [Perfil Professional en **Valencià**.](#val) :catalonia:
+- [Perfil Professional en **Valencià**.](#val) :cat:
 
 ## <a name="sp">Perfil Profesional</a> :flag-es:
 
