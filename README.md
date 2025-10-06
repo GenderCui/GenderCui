@@ -1,6 +1,6 @@
 # Vera Navarrete García
 
-- [Perfil Profesional en **Español**.](#sp) :flag-es:
+- [Perfil Profesional en **Español**.](#sp) :es:
 - [Professional Profile in **English**.](#en) :flag-gb:
 - [Perfil Professional en **Valencià**.](#val) :flag-ea:
 
