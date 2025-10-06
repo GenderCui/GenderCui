@@ -96,6 +96,6 @@ I am a **Junior Web Developer** looking for a **work placement** in the industry
     - [Curs de pensament lógic: **Algorismes i Diagrames de Flux**.](https://platzi.com/p/vn.navarretegarcia/curso/3221-pensamiento-logico/diploma/detalle/)
     - [Curs de pensament lógic: **Tractament de Dades, Estructures i Funcions**.](https://platzi.com/p/vn.navarretegarcia/curso/3222-pensamiento-logico-estructuras/diploma/detalle/)
 
-## Vies de Contacte :mail:
+## Vies de Contacte :email:
 
 - [**Linkedin**](https://www.linkedin.com/in/navarretegar-vera/)
