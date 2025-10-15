@@ -3,6 +3,7 @@
 - [Perfil Profesional en **Español**.](#sp)
 - [Professional Profile in **English**.](#en)
 - [Perfil Professional en **Valencià**.](#val)
+- [Actividad Reciente / Recent Activity / Activitat Recent](#rec-act)
 
 ## <a name="sp">Perfil Profesional</a>
 
@@ -99,3 +100,7 @@ I am a **Junior Web Developer** looking for a **work placement** in the industry
 ## Vies de Contacte :email:
 
 - [**Linkedin**](https://www.linkedin.com/in/navarretegar-vera/)
+
+## <a name="rec-act">Actividad Reciente / Recent Activity / Activitat Recent<a>
+
+<!--RECENT_ACTIVITY:start-->
