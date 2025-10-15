@@ -104,3 +104,9 @@ I am a **Junior Web Developer** looking for a **work placement** in the industry
 ## <a name="rec-act">Actividad Reciente / Recent Activity / Activitat Recent<a>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [GenderCui/GenderCui](https://github.com/GenderCui/GenderCui)<br>
+2. ⬆️ Pushed undefined commit(s) to [GenderCui/GenderCui](https://github.com/GenderCui/GenderCui)<br>
+3. ⬆️ Pushed undefined commit(s) to [GenderCui/GenderCui](https://github.com/GenderCui/GenderCui)<br>
+4. ⬆️ Pushed undefined commit(s) to [GenderCui/GenderCui](https://github.com/GenderCui/GenderCui)<br>
+5. ⬆️ Pushed undefined commit(s) to [GenderCui/GenderCui](https://github.com/GenderCui/GenderCui)<br>
+<!--RECENT_ACTIVITY:end-->
