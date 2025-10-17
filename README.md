@@ -28,6 +28,7 @@
 - **Competencias Tecnológicas**
     - [Curso de **Fundamentos de la Ingeniería de Software**](https://platzi.com/p/vn.navarretegarcia/curso/11997-ingenieria/diploma/detalle/)
     - [Configuración de Entorno de desarrollo en **Linux**](https://platzi.com/p/vn.navarretegarcia/curso/2383-prework-linux/diploma/detalle/)
+    - [Curso de **Git y Github**.](https://platzi.com/p/vn.navarretegarcia/curso/11059-gitgithub/diploma/detalle/)
 - **Otras Competencias**
     - [Cursos de **Inglés** para programadores.](https://platzi.com/p/vn.navarretegarcia/curso/3092-ingles-developers/diploma/detalle/)
     - [Curso de pensamiento lógico: **Algoritmos y Diagramas de flujo**](https://platzi.com/p/vn.navarretegarcia/curso/3221-pensamiento-logico/diploma/detalle/)
@@ -60,6 +61,7 @@ I am a **Junior Web Developer** looking for a **work placement** in the industry
 - **Technologial Skills**
     - [Training in **Software engineering Basic Skills**](https://platzi.com/p/vn.navarretegarcia/curso/11997-ingenieria/diploma/detalle/)
     - [Development Environment setup on **Linux**](https://platzi.com/p/vn.navarretegarcia/curso/2383-prework-linux/diploma/detalle/)
+    - [**Git & Github** Training](https://platzi.com/p/vn.navarretegarcia/curso/11059-gitgithub/diploma/detalle/)
 - **Languages and Soft Skills**
     - [**English** Training for Programmers](https://platzi.com/p/vn.navarretegarcia/curso/3092-ingles-developers/diploma/detalle/)
     - [Logical Thinking Training: **Algorithms and Flowcharts**.](https://platzi.com/p/vn.navarretegarcia/curso/3221-pensamiento-logico/diploma/detalle/)
@@ -92,6 +94,7 @@ I am a **Junior Web Developer** looking for a **work placement** in the industry
 - **Competències Tecnològiques**
     - [Curs de **Fonaments de l'Enginyeria de Software**](https://platzi.com/p/vn.navarretegarcia/curso/11997-ingenieria/diploma/detalle/)
     - [Configuració de l'Entorn de Desenvolupament a **Linux**](https://platzi.com/p/vn.navarretegarcia/curso/2383-prework-linux/diploma/detalle/)
+    - [Curs de **Git i Github**](https://platzi.com/p/vn.navarretegarcia/curso/11059-gitgithub/diploma/detalle/)
 - **Altres Competències**
     - [Curs d'**Anglès** per a Programadors.](https://platzi.com/p/vn.navarretegarcia/curso/3092-ingles-developers/diploma/detalle/)
     - [Curs de pensament lógic: **Algorismes i Diagrames de Flux**.](https://platzi.com/p/vn.navarretegarcia/curso/3221-pensamiento-logico/diploma/detalle/)
