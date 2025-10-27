@@ -3,7 +3,7 @@
 - [Perfil Profesional en **Español**.](#sp)
 - [Professional Profile in **English**.](#en)
 - [Perfil Professional en **Valencià**.](#val)
-- [Actividad Reciente / Recent Activity / Activitat Recent](#rec-act)
+- [**Actividad** Reciente / Recent **Activity** / **Activitat** Recent](#rec-act)
 
 ## <a name="sp">Perfil Profesional</a>
 
