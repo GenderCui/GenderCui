@@ -9,7 +9,7 @@
 
 ### Ocupación Actual
 
-**Desarrolladora Web Junior** en busca de **prácticas profesionales** dentro del sector, principalmente dentro de la provincia de Alicante.
+**Desarrolladora Web Junior** en busca de **prácticas profesionales** dentro del sector, principalmente dentro de la provincia de Alicante. Agregada frase de comprobación
 
 ### Formación Tecnológica :computer:
 
